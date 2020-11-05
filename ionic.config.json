@@ -1,0 +1,7 @@
+{
+  "name": "package-deployment-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
